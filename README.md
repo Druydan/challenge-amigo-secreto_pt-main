@@ -41,12 +41,3 @@ Este é um projeto simples para sortear nomes em um jogo de **Amigo Secreto**. A
 
         Se houver um botão para atualizar a lista, clique nele para exibir todos os participantes.
 
-Estrutura do projeto
-Copy
-
-chalenge-amigo-secreto/
-│
-├── index.html          # Arquivo principal HTML
-├── style.css           # Arquivo de estilos CSS (opcional)
-├── app.js           # Arquivo JavaScript com a lógica do projeto
-└── README.md           # Este arquivo
