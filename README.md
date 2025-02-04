@@ -1,21 +1,22 @@
 # Chalenge Amigo Secreto
 
-Este é um projeto simples para sortear nomes em um jogo de **Amigo Secreto**. A página exibe uma lista de participantes, e o usuário pode sortear um nome aleatório clicando em um botão. O projeto é desenvolvido usando HTML, CSS e JavaScript.
+Este é um projeto interativo para sortear nomes em um jogo de **Amigo Secreto**. O usuário pode inserir nomes manualmente, visualizar a lista de participantes e sortear um nome aleatório. O projeto é desenvolvido usando HTML, CSS e JavaScript.
 
 ---
 
 ## Funcionalidades
 
-- **Lista de participantes**: Exibe uma lista de nomes dos participantes do Amigo Secreto.
-- **Sorteio aleatório**: Sorteia e exibe um nome aleatório da lista.
+- **Inserir nomes**: Adicione nomes manualmente à lista de participantes.
+- **Exibir lista**: Visualize todos os nomes que foram inseridos.
+- **Sortear nome**: Sorteie um nome aleatório da lista.
 
 ---
 
 ## Tecnologias utilizadas
 
 - **HTML**: Estrutura da página.
-- **CSS**: Estilização da página (opcional).
-- **JavaScript**: Lógica para sortear nomes e atualizar a lista.
+- **CSS**: Estilização da página.
+- **JavaScript**: Lógica para adicionar nomes, exibir a lista e sortear um nome.
 
 ---
 
