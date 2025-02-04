@@ -24,3 +24,29 @@ Este é um projeto simples para sortear nomes em um jogo de **Amigo Secreto**. A
 1. **Clone o repositório**:
    ```bash
    git clone https://github.com/seu-usuario/chalenge-amigo-secreto.git
+
+       Abra o projeto:
+
+        Navegue até a pasta do projeto:
+        bash
+        Copy
+
+        cd chalenge-amigo-secreto
+
+        Abra o arquivo index.html no seu navegador.
+
+    Interaja com a página:
+
+        Clique no botão "Sortear Nome" para exibir um nome aleatório da lista.
+
+        Se houver um botão para atualizar a lista, clique nele para exibir todos os participantes.
+
+Estrutura do projeto
+Copy
+
+chalenge-amigo-secreto/
+│
+├── index.html          # Arquivo principal HTML
+├── style.css           # Arquivo de estilos CSS (opcional)
+├── app.js           # Arquivo JavaScript com a lógica do projeto
+└── README.md           # Este arquivo
