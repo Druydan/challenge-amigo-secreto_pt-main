@@ -24,7 +24,7 @@ Este é um projeto interativo para sortear nomes em um jogo de **Amigo Secreto**
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/chalenge-amigo-secreto.git
+   git clone https://github.com/Druydan/challenge-amigo-secreto_pt-main.git
 
        Abra o projeto:
 
